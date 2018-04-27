@@ -1,6 +1,12 @@
 # ngrx-todo-bugs
 ngrx-todo-bugs
 
+### form search
+![form search](/assets/search.png)
+
+### list bug item
+![list bug item](/assets/bugsitems.png)
+
 ### Bug entity
   - Id
   - Name
