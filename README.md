@@ -24,7 +24,16 @@ ngrx-todo-bugs
     - like
     - dislike
   - Answers
-  
+
+### Answers entity
+  - Id
+  - bugId
+  - author
+  - content
+  - link
+  - date
+  - like
+  - view
   
  ### Component Form Search bug
   - Form Search bug
